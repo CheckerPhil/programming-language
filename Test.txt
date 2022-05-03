@@ -1,0 +1,3 @@
+int lol = 1
+output(lol)
+output("Hello World")

@@ -1,0 +1,15 @@
+/home/philipp/Dokumente/Programmieren/C#/Programming Language/bin/Debug/net6.0/Programming Language
+/home/philipp/Dokumente/Programmieren/C#/Programming Language/bin/Debug/net6.0/Programming Language.deps.json
+/home/philipp/Dokumente/Programmieren/C#/Programming Language/bin/Debug/net6.0/Programming Language.runtimeconfig.json
+/home/philipp/Dokumente/Programmieren/C#/Programming Language/bin/Debug/net6.0/Programming Language.dll
+/home/philipp/Dokumente/Programmieren/C#/Programming Language/bin/Debug/net6.0/Programming Language.pdb
+/home/philipp/Dokumente/Programmieren/C#/Programming Language/obj/Debug/net6.0/Programming Language.csproj.AssemblyReference.cache
+/home/philipp/Dokumente/Programmieren/C#/Programming Language/obj/Debug/net6.0/Programming Language.GeneratedMSBuildEditorConfig.editorconfig
+/home/philipp/Dokumente/Programmieren/C#/Programming Language/obj/Debug/net6.0/Programming Language.AssemblyInfoInputs.cache
+/home/philipp/Dokumente/Programmieren/C#/Programming Language/obj/Debug/net6.0/Programming Language.AssemblyInfo.cs
+/home/philipp/Dokumente/Programmieren/C#/Programming Language/obj/Debug/net6.0/Programming Language.csproj.CoreCompileInputs.cache
+/home/philipp/Dokumente/Programmieren/C#/Programming Language/obj/Debug/net6.0/Programming Language.dll
+/home/philipp/Dokumente/Programmieren/C#/Programming Language/obj/Debug/net6.0/refint/Programming Language.dll
+/home/philipp/Dokumente/Programmieren/C#/Programming Language/obj/Debug/net6.0/Programming Language.pdb
+/home/philipp/Dokumente/Programmieren/C#/Programming Language/obj/Debug/net6.0/Programming Language.genruntimeconfig.cache
+/home/philipp/Dokumente/Programmieren/C#/Programming Language/obj/Debug/net6.0/ref/Programming Language.dll
